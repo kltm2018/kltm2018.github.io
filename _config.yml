@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: (๑´•.̫ • `๑) My ^오^
 
 # Your name to show in the footer
-author: Some Person
+author: Văn Hiệp
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Giới thiệu"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,12 +39,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "satmonmun@gmail.com"
+  facebook: kltm2018
+  github: kltm2018
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -71,9 +68,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
