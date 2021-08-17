@@ -9,7 +9,7 @@ tags: [books, test]
 ---
 
 
-<audio controls autoplay loop>
+<audio autoplay loop>
   <source src="/assets/audio/haha.mp3?autoplay=1&loop=1" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
