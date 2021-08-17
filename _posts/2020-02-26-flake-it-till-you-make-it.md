@@ -11,7 +11,7 @@ tags: [books, test]
 
 <audio controls>
   <source src="/assets/audio/haha.mp3?autoplay=1&loop=1&controls=1" type="audio/mpeg">
-  <audio autoplay="true"></audio>
+  <audio autoplay="true">
   Your browser does not support the audio element.
 </audio>
 
