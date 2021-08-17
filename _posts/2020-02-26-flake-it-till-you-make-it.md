@@ -7,6 +7,11 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
+# _include/embed-audio.html
+<audio controls>
+  <source src="{{ include.src }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 {% include open-embed.html src="/assets/audio/haha.mp3" %}
 
