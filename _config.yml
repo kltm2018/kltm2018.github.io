@@ -14,7 +14,7 @@ author: Văn Hiệp
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Giới thiệu"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
