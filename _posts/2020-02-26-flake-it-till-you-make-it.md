@@ -9,7 +9,7 @@ tags: [books, test]
 ---
 
 <audio controls>
-  <source src="{{ /assets/audio/haha.mp3 }}" type="audio/mpeg">
+  <source src="{{ include.src }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
