@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-# _include/open-embed.html.html
+# _include/open-embed.html
 <audio controls>
   <source src="{{ include.src }}" type="audio/mpeg">
   Your browser does not support the audio element.
