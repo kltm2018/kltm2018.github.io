@@ -40,6 +40,7 @@ while (num!=0) {
         }
 }
 ~~~
+
 {: .box-note}
 Kết quả: Thứ tự các phần tử trong mảng được xếp đúng thứ tự y hệt thứ tự các chữ số trong số cần xử lý, chỉ cần 1 vòng lặp, j chạy từ 0 tới n-1 là xong.
 
