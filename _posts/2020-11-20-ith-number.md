@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phương pháp tách số từ bên trái!
+title: Phương pháp tách chữ số từ bên trái!
 subtitle: <My tự nghĩ ra đó nè>
 tags: [code]
 comments: true
@@ -44,7 +44,11 @@ while (num!=0) {
 Kết quả: Thứ tự các phần tử trong mảng được xếp đúng thứ tự y hệt thứ tự các chữ số trong số cần xử lý, chỉ cần 1 vòng lặp, j chạy từ 0 tới n-1 là xong.
 
 Thế giới 7 tỉ người, cao thủ lớp lớp, có lẽ đã có ai đó nghĩ ra ý tưởng này trước mình, mình không biết nữa. ^^ Biết đâu 1 ngày nào đó, những người có cùng ý tưởng sẽ tìm thấy nhau, giúp đỡ nhau tiến xa hơn trên con đường học vấn đầy thử thách nhưng vô cùng tươi đẹp.
+
 Chúc mọi người an vui.
+
 Bình Dương,
+
 18/08/2021
+
 (Viết lại cho 20/11/2020)
