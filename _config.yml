@@ -16,7 +16,7 @@ author: Văn Hiệp
 navbar-links:
   Giới thiệu: "aboutme"
   Coding:
-    - Góp nhặt C++
+    - Góp nhặt C++: "code"
     - Template CP
   Trang chủ: "https://kltm2018.github.io/"
 
