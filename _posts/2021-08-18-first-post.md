@@ -14,7 +14,7 @@ comments: true
 Hôm nay cũng tập tành làm website tĩnh trên github. ≥^.^≤ 
 
 
-Lăn lộn trên mạng xã hội bấy lâu, cuối cùng cũng đã có 1 trang web cho riêng mình.
+Lăn lộn trên mạng xã hội bấy lâu, cuối cùng đã có 1 trang web cho riêng mình.
 
 
 Lần cuối viết blog là năm 12 (2009). Đi hết một vòng, ta trở lại điểm khởi đầu. 
