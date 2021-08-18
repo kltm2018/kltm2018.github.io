@@ -16,7 +16,7 @@ author: Văn Hiệp
 navbar-links:
   Giới thiệu: "aboutme"
   Coding:
-    - Góp nhặt C++: "/_post/2020-11-20-ith-number.md"
+    - Góp nhặt C++: "/2020-11-20-ith-number.md"
     - Template CP
   Trang chủ: "https://kltm2018.github.io/"
 
