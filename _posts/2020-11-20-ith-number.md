@@ -34,9 +34,9 @@ while (num!=0) {
  
         num=num-pow(10,digits)*r; //Tách hàng tiếp theo, num = 1234-1*10^3 = 234 , đoạn này mình tự chế chứ không có code mẫu trên mạng đâu (1)
  
-        if (x<10)  //Tới hàng đơn vị nếu tiếp tục chạy dòng code (1) thì số cuối sẽ bị trừ đi 1 đơn vị (thành 1233 chứ không phải 1234), nên ta phải đặt điều kiện, nếu chạy tới hàng đơn vị thì x bằng chính nó.
+        if (num<10)  //Tới hàng đơn vị nếu tiếp tục chạy dòng code (1) thì số cuối sẽ bị trừ đi 1 đơn vị (thành 1233 chứ không phải 1234), nên ta phải đặt điều kiện, nếu chạy tới hàng đơn vị thì num bằng chính nó.
         {
-            x=x;
+            num=num;
         }
 }
 ~~~
